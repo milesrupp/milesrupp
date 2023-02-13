@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milesrupp
 - I’m interested in Data Science, Cyber Security, UX/UI Design
-- I’m currently learning Rust and R
+- I’m currently learning C and Rust
 - How to reach me mrupp@cedarville.edu
 
 <!---
