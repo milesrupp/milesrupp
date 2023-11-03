@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milesrupp
-- I’m interested in Cyber Security, Data Science, and UX/UI Design
+- I’m interested in Cyber Security and Software Development
 - I’m currently learning C
 - How to reach me mrupp@cedarville.edu
 
